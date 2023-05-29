@@ -36,7 +36,7 @@
 
 ### Ответ
 
-![image](https://github.com/elisar83/hw-05/assets/122297912/00a0b7ae-33a2-4467-8e58-dcedd385c2ae)
+![image](https://github.com/elisar83/hw-05/assets/122297912/00eddbab-7a4b-402c-b5b7-4735f8dbdaa9)
 
 ![image](https://github.com/elisar83/hw-05/assets/122297912/112f1b0d-e6c8-4484-af60-d00cf7b5e735)
 
