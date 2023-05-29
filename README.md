@@ -24,7 +24,7 @@
 
 ![image](https://github.com/elisar83/hw-05/assets/122297912/4d36aa83-1ade-48bf-908e-27c90d50d6da)
 
-![image](https://github.com/elisar83/hw-05/assets/122297912/d36da274-b306-4033-82cb-73a4efaed93c)
+![image](https://github.com/elisar83/hw-05/assets/122297912/d5b02698-8e33-4770-8eae-5c795ba55e26)
 
 
 ### Задание 3
