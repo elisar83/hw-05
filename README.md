@@ -23,6 +23,7 @@
 ### Ответ
 
 ![image](https://github.com/elisar83/hw-05/assets/122297912/4d36aa83-1ade-48bf-908e-27c90d50d6da)
+
 ![image](https://github.com/elisar83/hw-05/assets/122297912/d36da274-b306-4033-82cb-73a4efaed93c)
 
 
@@ -34,3 +35,8 @@
 Приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
 ### Ответ
+
+![image](https://github.com/elisar83/hw-05/assets/122297912/00a0b7ae-33a2-4467-8e58-dcedd385c2ae)
+
+![image](https://github.com/elisar83/hw-05/assets/122297912/112f1b0d-e6c8-4484-af60-d00cf7b5e735)
+
